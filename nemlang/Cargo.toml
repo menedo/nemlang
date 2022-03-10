@@ -10,4 +10,4 @@ keywords = ["NEML", "neno"]
 
 [dependencies]
 nemlc = { git = 'https://github.com/menedo/nemlc.git', branch = 'main' }
-poirot = { git = 'https://github.com/menedo/poirot.git', branch = 'main' }
+poirot = { git = 'https://github.com/voidbootes/poirot.git', branch = 'main' }
