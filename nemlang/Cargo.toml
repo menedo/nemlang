@@ -1,0 +1,13 @@
+[package]
+name = "nemlang"
+version = "0.0.1"
+authors = ["inkhare <iapricot@foxmail.com>"]
+description = "Nemlang is the core framework implementation of NEML."
+edition = "2018"
+license = "MIT/Apache-2.0"
+readme = "README.md"
+keywords = ["NEML", "neno"]
+
+[dependencies]
+nemlc = { git = 'https://github.com/menedo/nemlc.git', branch = 'main' }
+poirot = { git = 'https://github.com/menedo/poirot.git', branch = 'main' }

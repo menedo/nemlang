@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+  "nemlang",
+
+  # Internal
+  "examples",
+]
